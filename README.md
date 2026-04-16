@@ -1,25 +1,49 @@
 # DevWebNP
+Projeto desenvolvido para a disciplina de Programação Web. O site simula uma loja online criada com HTML e CSS, aplicando conceitos de estruturação de páginas, estilização, organização de layout e responsividade.
+DevWebNP
 
-Projeto desenvolvido para a disciplina de **Programação Web** do curso de **Ciência da Computação**. O site simula uma loja online criada com **HTML e CSS**, aplicando conceitos de estruturação de páginas, estilização, organização de layout e responsividade.
+Projeto desenvolvido para a disciplina de Programação Web do curso de Ciência da Computação. O objetivo foi criar a estrutura de um site simulando uma loja online de produtos de tecnologia, utilizando apenas HTML5 e CSS3.
 
-## 📌 Sobre o projeto
-O objetivo deste projeto foi desenvolver a estrutura de um site utilizando tecnologias básicas de desenvolvimento front-end, colocando em prática conceitos aprendidos em sala de aula como organização de layout, estilização com CSS e adaptação para diferentes tamanhos de tela.
+📌 Sobre o projeto
 
-## 💻 Tecnologias utilizadas
-- HTML5
-- CSS3
+O site foi desenvolvido como atividade prática da disciplina, com o objetivo de aplicar conceitos básicos de desenvolvimento web, como estruturação de páginas, organização de layout e estilização.
 
-## ⚙️ Funcionalidades
-- Estruturação de páginas web
-- Layout organizado
-- Estilização com CSS
-- Responsividade utilizando Media Queries
+Durante o desenvolvimento, buscamos manter o código organizado e de fácil manutenção. Como decisão de projeto, optamos por utilizar um arquivo CSS separado para cada página HTML, facilitando futuras alterações e permitindo que cada página possua sua própria estilização sem interferir nas demais.
 
-## 🚀 Como executar o projeto
-1. Baixe ou clone este repositório.
-2. Abra a pasta do projeto.
-3. Execute o arquivo `index.html` em qualquer navegador.
+O layout foi estruturado utilizando containers, seções e navegação entre páginas, simulando a estrutura de uma loja virtual simples.
 
-## 👨‍💻 Autores
-- Sandro Hugo  
-- Cauã Rheris
+💻 Tecnologias utilizadas
+
+HTML5
+CSS3
+Bootstrap Icons
+Google Fonts
+
+📂 Estrutura do site
+
+O projeto é composto por quatro páginas principais:
+
+Home – página inicial com apresentação da loja, barra de busca e destaques.
+Produtos – exibição de produtos organizados em formato de cards.
+Carrinho – simulação de uma página de carrinho de compras.
+Contato – página com informações e formulário de contato.
+
+Cada página possui seu arquivo CSS próprio, permitindo uma separação clara dos estilos e melhor organização do código.
+
+🎨 Interface
+
+O layout foi desenvolvido utilizando:
+
+containers para centralização de conteúdo
+menu de navegação entre páginas
+cards de produtos
+ícones utilizando Bootstrap Icons
+fontes personalizadas com Google Fonts
+
+Além disso, foram utilizadas Media Queries para ajustar o layout em diferentes tamanhos de tela.
+
+👨‍💻 Autores
+Sandro Hugo
+Cauã Rheris
+
+Projeto desenvolvido para a disciplina de Programação Web.
